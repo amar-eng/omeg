@@ -48,17 +48,6 @@ class About extends Component {
               <div className="maroon-line"></div>
             </div>
 
-            {/* <div className='backarea'>
-                  <div className='boxed transform'></div>
-               </div> */}
-
-            {/* <input
-                  type='button'
-                  id='button2'
-                  value='Dark Mode'
-                  className='btn btn-warning m-2'
-               ></input> */}
-
             <p className="abouttext">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio,
               cupiditate perspiciatis beatae doloremque inventore enim saepe,

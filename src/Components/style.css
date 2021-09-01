@@ -225,6 +225,9 @@ h6 {
   padding: 130px;
   /* animation: image-out 1.2s ease-out;  */
 }
+.display-4 {
+  color: red;
+}
 
 @keyframes image-out {
   0% {
@@ -240,13 +243,15 @@ h6 {
 }
 
 .hero h1 {
-  padding-top: 150px;
+  padding-bottom: 70px;
   color: #303030;
+
   animation: letter-come 1.5s ease-out both 0.5s;
 }
 
 .lead {
   color: #303030;
+  color: red;
   animation: letter-up 2s ease-in-out both;
 }
 
@@ -260,6 +265,7 @@ h6 {
     padding-top: 0;
     font-size: 35px;
     font-weight: 400;
+    color: red;
     animation: letter-come-2 1.5s ease-out forwards 0.5s;
   }
 }
@@ -778,7 +784,7 @@ h6 {
   margin: 15px 0px;
   transition: 0.2s all ease-in-out;
 }
-textarea{
+textarea {
   resize: none;
 }
 

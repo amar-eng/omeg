@@ -5,12 +5,6 @@ const Footer = () => {
   return (
     <React.Fragment>
       <div className="footer">
-        {/* <div className='fo-link-box'>
-            <a href='#footer' className='fo-link'>
-               Footer <div></div>
-            </a>
-         </div> */}
-
         <Link className="nav-link" to="/">
           <div className="link-t">
             <p>Home</p>
