@@ -21,9 +21,9 @@ const Footer = () => {
       </div>
       <div className="copyright">
         <p>
-          Copyright © 2020 Omega - Developed by{" "}
+          Copyright © 2021 Omega - Developed by{" "}
           <a
-            href="https://aqibasif.vercel.app"
+            href="https://amar-mo.com"
             rel="noopener noreferrer"
             target="_blank"
           >
